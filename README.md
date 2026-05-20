@@ -1,5 +1,5 @@
 # Project-X
-Try Here: https://github.com/ImGh0st/Project-X.git
+Try Here: https://github.com/sai0fficial/project-X
 "A secure password generator tool."
 Generate Strong, Secure and Unique Passwords
 The password generator uses the secure bcrypt algorithm to create strong passwords that are also unique for every site. You just have to remember a single passphrase (master password) and the tool will create different passwords for all your online accounts with a click.
